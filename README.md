@@ -68,10 +68,6 @@ See `Toy_Review_Coding_Sample.xlsx` for a structured data example.
 - Identified recurring themes and mapped product strengths/weaknesses  
 - Shared insights with the design team to guide early concept discussions  
 
----
-
-## ⚠️ NDA Notice
-
-This case study reflects my research process and not the full scope of the internship project. Specific product designs, visuals, or final deliverables are not shown due to confidentiality agreements.
+*This case study reflects my research process and not the full scope of the internship project. Specific product designs, visuals, or final deliverables are not shown due to confidentiality agreements.*
 
 ---
