@@ -1,4 +1,4 @@
-# 🧸 Preschool Toy Research (Qualitative UX Case Study)
+# Preschool Toy Research (Qualitative UX Case Study)
 
 ## 📘 Overview
 
