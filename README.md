@@ -45,7 +45,7 @@ Due to a non-disclosure agreement (NDA), specific products, visual assets, and i
 
 ## Scope of Work
 
-See `Scope-of-Work-Sample.docx` for a sample SOW document. This outlines the structure of the UX research project, including goals, methods, deliverables, and timeline. This file is shared as a general example and does not contain confidential product information.
+See `Scope-of-Work-Sample.pdf` for a sample SOW document. This outlines the structure of the UX research project, including goals, methods, deliverables, and timeline. This file is shared as a general example and does not contain confidential product information.
 
 ---
 
