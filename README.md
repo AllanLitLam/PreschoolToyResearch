@@ -8,16 +8,9 @@ Due to a non-disclosure agreement (NDA), specific products, visual assets, and i
 
 ---
 
-## Project Objectives
+## Business Problem and Research Question
 
-- Analyze customer satisfaction data from top-performing preschool toys.
-- Identify commonly endorsed features and recurring complaints.
-- Highlight product characteristics that encourage imaginative and pretend play.
-- Surface themes from previous high-performing items to inform new product direction.
-
----
-
-## Research Questions
+The core business problem is to increase sales by incorporating trending toy features into our new product designs. My analysis aims to answer: 
 
 - What features are consistently praised in verified customer reviews?
 - What complaints are consistently raised across products?
