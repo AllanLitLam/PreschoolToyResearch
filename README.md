@@ -8,7 +8,7 @@ Due to a non-disclosure agreement (NDA), specific products, visual assets, and i
 
 ---
 
-## Business Problem and Research Question
+## Business Problem
 
 The core business problem is to increase sales by incorporating trending toy features into our new product designs. My analysis aims to answer: 
 
